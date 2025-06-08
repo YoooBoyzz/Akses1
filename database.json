@@ -1,17 +1,18 @@
 [
   {
     "number": "7338382829",
-    "status": "Aktif",
-    "timestamp": "2025-06-08T08:19:14.021Z"
+    "status": "Aktif"
   },
   {
     "number": "73838288",
-    "status": "Aktif",
-    "timestamp": "2025-06-08T08:23:55.343Z"
+    "status": "Aktif"
   },
   {
     "number": "79",
-    "status": "Aktif",
-    "timestamp": "2025-06-08T08:24:01.197Z"
+    "status": "Aktif"
+  },
+  {
+    "number": "62838",
+    "status": "Aktif"
   }
 ]
